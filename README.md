@@ -1,5 +1,5 @@
 ## my-first-repo
-#Hi! Just me, learning as I go
+# Hi! Just me, learning as I go
 Creative soul, curious mind, learning to code.
 
 ---
